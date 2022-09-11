@@ -8,3 +8,7 @@ ZCZC W00 100 L02 Zoom Meeting with Lecturer
 ZCZC W00 40 L05 Studying for Quiz
 ZCZC W00 20 L01 SCELE related
 ZCZC W00 5 L05 Quiz related
+ZCZC W01 100 L02 Zoom Meeting with Lecturer
+ZCZC W01 100 L02 Zoom Meeting with Lecturer
+ZCZC W01 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 3 L41 TXT/mylog.txt related
