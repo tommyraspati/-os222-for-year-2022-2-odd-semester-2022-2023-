@@ -14,13 +14,13 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://linuxopsys.com/topics/basic-linux-commands)<br>
+1. [Linux Basic Command ](https://linuxopsys.com/topics/basic-linux-commands)<br>
 Basic command that you need to know. This site is very helpful for beginners that want to learn linux.
 
-2. [Two](https://www.javatpoint.com/linux-edit-file)<br>
+2. [Editing files with linux](https://www.javatpoint.com/linux-edit-file)<br>
 Did you know that you can edit files in linux?. Go check out the link :D.
 
-3. [Three](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
+3. [REGEX](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
 Here is a learning video about REGEX. Dont forget to check it out!. 
 
 
