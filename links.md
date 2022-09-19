@@ -21,8 +21,10 @@ Basic command that you need to know. This site is very helpful for beginners tha
 Did you know that you can edit files in linux?. Go check out the link :D.
 
 3. [REGEX](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
-Here is a learning video about REGEX. Dont forget to check it out!. 
+Here is a learning video about REGEX. Dont forget to check it out!.
 
+4. [GPG/PGP](https://www.privex.io/articles/what-is-gpg)<br>  
+Things you need to know about GPG. Check it to have better understanding about GPG.
 
 <br>
 <hr>
