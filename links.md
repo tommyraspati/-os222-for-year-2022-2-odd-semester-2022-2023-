@@ -1,4 +1,4 @@
----
+i---
 permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
@@ -29,6 +29,8 @@ Things you need to know about GPG. Check it to have better understanding about G
 5. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
 Explain about the files system you need to know in operating system. This link will be helpful for newbie.
 
+6. [Learn C Programming](https://www.programiz.com/c-programming)
+fundamental C learning for beginners.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
