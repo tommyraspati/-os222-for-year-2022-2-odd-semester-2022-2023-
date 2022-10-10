@@ -31,6 +31,9 @@ Explain about the files system you need to know in operating system. This link w
 
 6. [Learn C Programming](https://www.programiz.com/c-programming)
 fundamental C learning for beginners.
+
+7. [Operation System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

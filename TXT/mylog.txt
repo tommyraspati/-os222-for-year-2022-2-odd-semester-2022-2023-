@@ -31,3 +31,9 @@ ZCZC W04 5 L05 Quiz related
 ZCZC W04 20 L01 Scele/discord related
 ZCZC W04 60 L09 weekly assignment
 ZCZC W04 3 L41 TXT/mylog.txt related
+ZCZC W05 100 L02 Zoom Meeting with Lecturer
+ZCZC W05 100 L02 Zoom Meeting with Lecturer
+ZCZC W05 5 L05 Quiz related
+ZCZC W05 50 L01 Scele/discord related
+ZCZC W05 60 L09 weekly assignment
+ZCZC W05 3 L41 TXT/mylog.txt related
