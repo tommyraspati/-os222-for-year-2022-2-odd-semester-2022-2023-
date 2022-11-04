@@ -34,6 +34,9 @@ fundamental C learning for beginners.
 
 7. [Operation System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
 A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory.
+
+8. [Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+A process is basically a program in execution. The execution of a process must progress in a sequential fashion.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
