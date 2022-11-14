@@ -37,6 +37,9 @@ A computer can address more memory than the amount physically installed on the s
 
 8. [Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
 A process is basically a program in execution. The execution of a process must progress in a sequential fashion.
+
+9. [Deadlock and Synchronization](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
+A summary of Deadlock and Synchronization on operating system. Teach you the fundamental of process synchronization and deadlock.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
