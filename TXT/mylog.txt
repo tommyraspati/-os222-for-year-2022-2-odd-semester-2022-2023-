@@ -49,3 +49,9 @@ ZCZC W07 5 L05 Quiz related
 ZCZC W07 50 L01 Scele/discord related
 ZCZC W07 60 L09 weekly assignment
 ZCZC W07 3 L41 TXT/mylog.txt related
+ZCZC W08 100 L02 Offline class with Lecturer
+ZCZC W08 100 L02 Offlineclass with Lecturer
+ZCZC W08 10 L05 Quiz related
+ZCZC W08 50 L01 Scele/discord related
+ZCZC W08 600 L09 weekly assignment
+ZCZC W08 3 L41 TXT/mylog.txt related

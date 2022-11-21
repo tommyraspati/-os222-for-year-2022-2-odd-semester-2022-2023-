@@ -40,6 +40,10 @@ A process is basically a program in execution. The execution of a process must p
 
 9. [Deadlock and Synchronization](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
 A summary of Deadlock and Synchronization on operating system. Teach you the fundamental of process synchronization and deadlock.
+
+10. [Linux from scratch](https://www.youtube.com/watchv=0EwMnskxIZM&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&index=1)
+This is the channel i used and was recommended by Mr Rahmat to use as reference while building LFS. His explanations are detailed and easy to understand
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
